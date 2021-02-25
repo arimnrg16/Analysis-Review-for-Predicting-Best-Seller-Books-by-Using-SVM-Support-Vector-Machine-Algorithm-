@@ -13,6 +13,6 @@ Support Vector Machine (SVM) adalah seperangkat metode supervised learning yang 
 * Convert Negation	
 * Stepwords Removal	
 
-### Tujuan dari penelitian ini yaitu untuk mengetahui buku yang termasuk dalam kategori best seller maupun non best seller berdasarkan analisis terhadap review yang diberikan oleh customer.
+**Tujuan dari penelitian ini yaitu untuk mengetahui buku yang termasuk dalam kategori best seller maupun non best seller berdasarkan analisis terhadap review yang diberikan oleh customer.**
 
 ![Poster](https://github.com/arimnrg16/)
