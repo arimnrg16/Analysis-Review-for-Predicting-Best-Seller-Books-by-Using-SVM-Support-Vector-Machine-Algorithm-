@@ -1,7 +1,7 @@
 # Analysis Review for Predicting Best Seller Books by Using SVM (Support Vector Machine) Algorithm 
 
 Support Vector Machine (SVM) adalah seperangkat metode supervised learning yang digunakan untuk klasifikasi, regresi dan deteksi outlier. Konsep klasifikasi dengan Support Vector Machine (SVM)  adalah mencari hyperplane terbaik yang berfungsi sebagai pemisah dua kelas data yang bersifat linear maupun non-linear. Dengan kata lain diberikan data training (supervised learning) yang menghasilkan hyperplane optimal yang mengkategorikan contoh baru.
-* Preprocessing Techniques for Text Mining	8
+** Preprocessing Techniques for Text Mining	8 **
 ** Tokenization	8
 ** Case Folding	8
 ** Stemming	9
